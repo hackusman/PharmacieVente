@@ -45,9 +45,9 @@ Digitaliser les ventes d'une pharmacie locale avec un module qui :
 ┌─────────────────────────────┐
 │ PARACETAMOL x2             │
 ├─────────────────────────────┤
-│ Prix unitaire:      5.50 € │
-│ Total HT:          11.00 € │
-│ TVA (5.5%):         0.61 € │
+│ Prix unitaire:      5.50 F │
+│ Total HT:          11.00 F │
+│ TVA (5.5%):         0.61 F │
 ├─────────────────────────────┤
-│ TOTAL TTC:         11.61 € │
+│ TOTAL TTC:         11.61 F │
 └─────────────────────────────┘
